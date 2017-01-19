@@ -1,2 +1,2 @@
 # Sptrans-php
-PHP functions for api from SPTrans
+Funcoes em PHP para facilitar o uso da API da SPTrans.
